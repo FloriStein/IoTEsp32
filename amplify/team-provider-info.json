@@ -10,6 +10,11 @@
       "StackName": "amplify-iotesp32-dev-67071",
       "StackId": "arn:aws:cloudformation:eu-central-1:717279707507:stack/amplify-iotesp32-dev-67071/b77e0400-0b00-11f0-b819-0214ddf8e29d",
       "AmplifyAppId": "d3tpyv2s4721ls"
+    },
+    "categories": {
+      "auth": {
+        "iotesp321409231b": {}
+      }
     }
   }
 }
